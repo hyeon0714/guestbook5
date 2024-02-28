@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.javaex.gbDao.GbDao;
-import com.javaex.gbVo.GbVo;
+import com.javaex.dao.GbDao;
+import com.javaex.vo.GbVo;
 
 @Service
 public class GbService {

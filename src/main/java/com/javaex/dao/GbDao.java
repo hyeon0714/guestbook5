@@ -1,4 +1,4 @@
-package com.javaex.gbDao;
+package com.javaex.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -10,7 +10,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import com.javaex.gbVo.GbVo;
+import com.javaex.vo.GbVo;
 @Repository
 public class GbDao {
 	
